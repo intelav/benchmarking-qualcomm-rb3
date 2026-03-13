@@ -1,5 +1,9 @@
 # Embedded AI Benchmarking and Profiling (Qualcomm RB3)
 
+## Qualcomm RB3 Architecture
+
+![RB3 Architecture](images/rb3.png)
+
 A hands-on technical course covering **performance benchmarking, profiling, and system-level optimization for Embedded AI systems** on Qualcomm RB3 platforms.
 
 This repository contains practical tutorials and deep dives into the internal architecture of CPU, multimedia pipelines, AI accelerators, and system profiling tools used in edge AI workloads.
